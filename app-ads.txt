@@ -1,0 +1,2 @@
+# Reserved app-ads.txt for Corentry.
+# Add authorized advertising seller records here before enabling ads in production apps.

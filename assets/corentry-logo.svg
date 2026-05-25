@@ -1,0 +1,8 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Corentry logo</title>
+  <desc id="desc">A clean rounded mark combining a letter C with a play button.</desc>
+  <rect width="128" height="128" rx="30" fill="#F5F5F7"/>
+  <path d="M82.5 36.5C77.2 32.9 70.8 30.8 64 30.8C45.7 30.8 30.8 45.7 30.8 64C30.8 82.3 45.7 97.2 64 97.2C70.8 97.2 77.2 95.1 82.5 91.5" stroke="#1D1D1F" stroke-width="11" stroke-linecap="round"/>
+  <path d="M62 49.8C62 46.8 65.3 45 67.8 46.6L88.8 60.8C91.1 62.3 91.1 65.7 88.8 67.2L67.8 81.4C65.3 83 62 81.2 62 78.2V49.8Z" fill="#0071E3"/>
+  <path d="M44.5 64C44.5 53.2 53.2 44.5 64 44.5" stroke="#33C2A0" stroke-width="7" stroke-linecap="round"/>
+</svg>
